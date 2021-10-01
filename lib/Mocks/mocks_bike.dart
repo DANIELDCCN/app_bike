@@ -1,0 +1,63 @@
+import 'package:ntaindo/Models/bike.dart';
+
+final MOCK_BIKE = [
+  Bike(
+      codigo: 1959,
+      nome: 'GTS M1 Ride New TSI',
+      aro: 29,
+      descricao: 'Bicicleta GTSM1 Ride é ideal para quem quer começar a pedalar, realizar passeios e utilizar no dia-a-dia. São 4 tipos de tamanhos de quadro para você escolher, o peso total da bike é de 15kg montada. A Bike é direta da Fábrica Oficial com mais de 27 anos no mercado e garantia exclusiva com suporte diferenciado. Suporta até 100kgs.',
+      genero: 'Unissex',
+      imagemURL: 'https://static3.tcdn.com.br/img/img_prod/394779/bicicleta_gts_aro_29_freio_a_disco_cambio_gtsm1_tsi_21_marchas_e_amortecedor_gts_m1_ride_new_tsi_1959_variacao_7627_1_5da64b5043921b43db3584653c8f3afc.jpg',
+      indicacao: 'Dia-a-dia e lazer',
+      marchas: 21,
+      modalidade: 'Urbana',
+      suspensao: 'Dianteira',
+      tamanho: '17, 19 e 21',
+      preco: 1300.00,
+  ),
+
+   Bike(
+      codigo: 1959,
+      nome: 'GTS M1 Ride New TSI',
+      aro: 29,
+      descricao: 'Bicicleta GTSM1 Ride é ideal para quem quer começar a pedalar, realizar passeios e utilizar no dia-a-dia. São 4 tipos de tamanhos de quadro para você escolher, o peso total da bike é de 15kg montada. A Bike é direta da Fábrica Oficial com mais de 27 anos no mercado e garantia exclusiva com suporte diferenciado. Suporta até 100kgs.',
+      genero: 'Unissex',
+      imagemURL: 'https://static3.tcdn.com.br/img/img_prod/394779/bicicleta_gts_aro_29_freio_a_disco_cambio_gtsm1_tsi_21_marchas_e_amortecedor_gts_m1_ride_new_tsi_1959_variacao_7627_2_3a8f31f4dd035be102ef8c5453e04cef.jpg',
+      indicacao: 'Dia-a-dia e lazer',
+      marchas: 21,
+      modalidade: 'Urbana',
+      suspensao: 'Dianteira',
+      tamanho: '17, 19 e 21',
+      preco: 1300.00,
+   ),
+
+  Bike(
+      codigo: 1959,
+      nome: 'GTS M1 Ride New TSI',
+      aro: 29,
+      descricao: 'Bicicleta GTSM1 Ride é ideal para quem quer começar a pedalar, realizar passeios e utilizar no dia-a-dia. São 4 tipos de tamanhos de quadro para você escolher, o peso total da bike é de 15kg montada. A Bike é direta da Fábrica Oficial com mais de 27 anos no mercado e garantia exclusiva com suporte diferenciado. Suporta até 100kgs.',
+      genero: 'Unissex',
+      imagemURL: 'https://static3.tcdn.com.br/img/img_prod/394779/bicicleta_gts_aro_29_freio_a_disco_cambio_gtsm1_tsi_21_marchas_e_amortecedor_gts_m1_ride_new_tsi_1959_variacao_7627_3_0587f73b51b8448f774f0ee883a0b720.jpg',
+      indicacao: 'Dia-a-dia e lazer',
+      marchas: 21,
+      modalidade: 'Urbana',
+      suspensao: 'Dianteira',
+      tamanho: '17, 19 e 21',
+      preco: 1300.00,
+  ),
+
+  Bike(
+      codigo: 1083,
+      nome: 'GTS M1 I-Vtec GTS MX9' ,
+      aro: 29,
+      descricao: 'Bicicleta GTSM1 é ideal para quem quer começar no Mountain Bike, Trilhas e percursos longos, ON ou OFF-Road. São 2 tipos de tamanhos de quadro e diversas cores para você escolher, o peso total da bike é de 14.8kg montada. A Bike é direto da Fábrica Oficial com mais de 27 anos no mercado e garantia exclusiva com suporte diferenciado.',
+      genero: 'Unissex',
+      imagemURL: 'https://static3.tcdn.com.br/img/img_prod/394779/bicicleta_gts_aro_29_freio_a_disco_hidraulico_cambio_27_marchas_e_amortecedor_velocimetro_de_brinde__1083_1_20190426155458.jpg',
+      indicacao: 'On ou Off-Road',
+      marchas: 27,
+      modalidade: 'Mountain-bike',
+      suspensao: 'Dianteira',
+      tamanho: '17 ou 20',
+      preco: 1700.00,
+  ),
+];
